@@ -1,4 +1,4 @@
-# Stock Prediction with Recurrent Neural Network
+# Stock Prediction with Recurrent Neural Networks
 
 Stock price prediction with RNN. The data we used is from the Chinese stock.
 
